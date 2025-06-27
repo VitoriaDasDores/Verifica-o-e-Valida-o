@@ -1,1 +1,3 @@
-# Verifica-o-e-Valida-o
+# Verificação e Validação
+
+Verificação e Validação de Autenticação de Usuários
